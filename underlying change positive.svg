@@ -1,0 +1,10 @@
+<svg width="400" height="100" viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Text: Underlying change -->
+  <text x="50%" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#4E8F6F">Underlying change</text>
+  
+  <!-- Arrow Line -->
+  <line x1="20" y1="70" x2="370" y2="70" stroke="#001D3D" stroke-width="2" />
+  
+  <!-- Arrow Head -->
+  <polygon points="370,64 388,70 370,76" fill="#001D3D" />
+</svg>
